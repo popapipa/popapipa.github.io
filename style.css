@@ -1,0 +1,25 @@
+	body{
+		background-color: yellow;
+	}
+	h1{
+		color: black;
+		font-family: 'Rubik Beastly', cursive;
+		font-size: 40px;
+	}
+	p{
+		border: 15px solid black;
+		margin: 30px 0px 30px 0px;
+		padding: 30px;
+	}
+	h2{
+		color: white;
+	font-family: 'Rubik Beastly', cursive;
+
+	}
+	
+	div{
+
+		padding: 60px;
+		width: 60%;
+		margin: auto;
+	}
